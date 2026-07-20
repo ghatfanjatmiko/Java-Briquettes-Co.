@@ -1,0 +1,48 @@
+DAFTAR NAMA FILE GAMBAR YANG DIBUTUHKAN
+========================================
+Upload file dengan NAMA PERSIS seperti di bawah ini ke folder assets/images/ di GitHub.
+Format: JPG atau PNG. Rekomendasi ukuran: min 1200px di sisi terpanjang, di-compress (JPEG quality 75-85%) biar loading cepat.
+
+--- LOGO ---
+logo.png              -> Logo perusahaan (transparan/PNG, tampil di navbar & footer semua halaman)
+
+--- HERO / BERANDA ---
+hero-charcoal.jpg      -> Foto utama di Hero section (bisa foto briquette close-up dramatis)
+
+--- FOTO PRODUK (dipakai berulang di index, products, product-detail) ---
+product-cube.jpg               -> Cube Charcoal 25mm
+product-hexagonal.jpg          -> Hexagonal Charcoal
+product-cylinder.jpg           -> Cylinder / Finger Charcoal
+product-pillow.jpg             -> Pillow-Shaped BBQ Charcoal
+product-flat.jpg               -> Flat / Square Charcoal
+product-private-label.jpg      -> Private Label Packaging
+
+--- ABOUT & QUALITY PAGE ---
+about-story.jpg         -> Foto facility/tim untuk halaman About
+quality-lab.jpg          -> Foto laboratorium QC (dipakai di index & quality.html)
+
+--- PRODUCT DETAIL PAGE (Cube Charcoal 25mm) ---
+pd-main.jpg              -> Foto utama produk (besar)
+pd-thumb-1.jpg            -> Thumbnail 1
+pd-thumb-2.jpg            -> Thumbnail 2
+pd-thumb-3.jpg            -> Thumbnail 3
+pd-thumb-4.jpg            -> Thumbnail 4
+pd-lifestyle.jpg          -> Foto suasana pemakaian (misal di shisha lounge)
+
+--- GALLERY PAGE (foto pabrik) ---
+facility-sorting.jpg      -> Area sortir tempurung kelapa
+facility-washing.jpg      -> Pencucian & pengeringan tempurung
+facility-kiln.jpg         -> Tungku karbonisasi
+facility-milling.jpg      -> Penggilingan bubuk arang
+facility-extrusion.jpg    -> Line ekstrusi briket
+facility-drying-racks.jpg -> Rak pengeringan
+facility-qc-lab.jpg       -> Lab QC
+facility-weighing.jpg     -> Line penimbangan & packing
+facility-printing.jpg     -> Cetak kemasan private label
+facility-warehouse.jpg    -> Area gudang
+facility-loading.jpg      -> Loading kontainer di pelabuhan
+
+--- CONTACT PAGE ---
+map-location.jpg          -> Screenshot Google Maps lokasi pabrik/kantor
+
+TOTAL: 27 file gambar
